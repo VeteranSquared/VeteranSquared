@@ -1,3 +1,3 @@
-Junior Web-Developer. Interested
-in learning Python and JS. Know
-some HTML and CSS.
+Junior Web-Developer. Learning JS. Interested
+in learning Python. Know some JS
+as well as HTML and CSS.
